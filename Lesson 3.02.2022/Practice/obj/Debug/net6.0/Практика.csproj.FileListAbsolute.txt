@@ -1,0 +1,10 @@
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика\obj\Debug\net6.0\Практика.csproj.AssemblyReference.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика\obj\Debug\net6.0\Практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика\obj\Debug\net6.0\Практика.AssemblyInfoInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика\obj\Debug\net6.0\Практика.AssemblyInfo.cs
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика\obj\Debug\net6.0\Практика.csproj.CoreCompileInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice\obj\Debug\net6.0\Практика.csproj.AssemblyReference.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice\obj\Debug\net6.0\Практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice\obj\Debug\net6.0\Практика.AssemblyInfoInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice\obj\Debug\net6.0\Практика.AssemblyInfo.cs
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice\obj\Debug\net6.0\Практика.csproj.CoreCompileInputs.cache

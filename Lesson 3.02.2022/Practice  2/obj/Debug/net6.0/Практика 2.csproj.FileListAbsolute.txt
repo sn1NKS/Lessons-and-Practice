@@ -1,0 +1,30 @@
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\Практика 2.exe
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\Практика 2.deps.json
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\Практика 2.runtimeconfig.json
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\ref\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\bin\Debug\net6.0\Практика 2.pdb
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.csproj.AssemblyReference.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.AssemblyInfoInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.AssemblyInfo.cs
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.csproj.CoreCompileInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\ref\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.pdb
+C:\Users\sn1NKS\Desktop\Git\Repositories\Практика 2\obj\Debug\net6.0\Практика 2.genruntimeconfig.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\Практика 2.exe
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\Практика 2.deps.json
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\Практика 2.runtimeconfig.json
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\ref\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\bin\Debug\net6.0\Практика 2.pdb
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.csproj.AssemblyReference.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.AssemblyInfoInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.AssemblyInfo.cs
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.csproj.CoreCompileInputs.cache
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\ref\Практика 2.dll
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.pdb
+C:\Users\sn1NKS\Desktop\Git\Repositories\Practice 3.02.2022\Practice  2\obj\Debug\net6.0\Практика 2.genruntimeconfig.cache
